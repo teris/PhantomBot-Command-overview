@@ -9,3 +9,5 @@ apache2,
 
 # Installation
 Upload all files to the web directory and adjust the config.php. The paths to your phantom bot must be activated here.
+
+The Folder "tmp" requoremnts chmod 777
