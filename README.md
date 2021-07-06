@@ -11,3 +11,9 @@ apache2,
 Upload all files to the web directory and adjust the config.php. The paths to your phantom bot must be activated here.
 
 The Folder "tmp" requoremnts chmod 777
+
+#Examples:
+
+https://dtproject.de/seralex
+
+https://valheim.dtproject.de/badpit
